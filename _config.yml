@@ -27,3 +27,5 @@ permalink: pretty
 social:
   - title: my projects (github)
     url: https://github.com/stuloper/project
+
+theme: jekyll-theme-cayman
